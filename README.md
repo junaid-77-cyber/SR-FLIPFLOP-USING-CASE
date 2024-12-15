@@ -1,4 +1,6 @@
-# SR-FLIPFLOP-USING-CASE
+### NAME: S JUNAID SARDAR
+### REG NO. 24003934
+### EXP NO.6 SR FLIPFLOP USING CASE
 
 **AIM:**
 
@@ -40,9 +42,16 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
+![Screenshot 2024-12-15 180354](https://github.com/user-attachments/assets/1f5c8c34-5357-4506-b9df-2329ffd8a487)
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+![Screenshot 2024-12-15 180524](https://github.com/user-attachments/assets/29e5e26d-da74-4e28-b787-3043a2e8feff)
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+![Screenshot 2024-12-15 181240](https://github.com/user-attachments/assets/9daea98c-b81c-41b6-8925-ce2e01eb16ac)
+
 **RESULTS**
+
+Thus the SR FlipFlop circuit are designed and the Truth Table are verified using Quartus Software
